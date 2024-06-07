@@ -78,7 +78,7 @@ Pour lancer ce travail on utilise streamlit run Streamlit.py et on obtient :
 4.	 Rendre publique l’accès à la carte. 
 Pour cela, nous avons besoin d’un repo github depuis lequel lancé notre programme Streamit.py. 
 https://github.com/Goethegoat/Streamit
-Et ainsi on obtient une adresse URL public : Streamlit · Streamlit (github.dev)
+Et ainsi on obtient une adresse URL public : Streamlit · Streamlit (github.dev) https://stunning-space-acorn-jw9pgx9p5vvh57x4-8501.app.github.dev/
 
 
 
